@@ -28,7 +28,7 @@
  * @author Jason D. Baker
  *
  * Added Flight class to local git repository in Week 11
- * pdesanct added a second comment line
+ * pdesanct added a second comment line which bakerjd edited for the collaboration assignment
  */
 
 public class Flight {
