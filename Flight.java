@@ -27,6 +27,8 @@
  * 
  * @author Jason D. Baker
  *
+ * Added Flight class to local git repository in Week 11
+ *
  */
 
 public class Flight {
